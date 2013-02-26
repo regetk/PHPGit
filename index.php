@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-           echo "lol";
+           include 'karli.php';
         ?>
     </body>
 </html>
