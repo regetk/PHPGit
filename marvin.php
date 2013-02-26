@@ -7,5 +7,5 @@
  * Reget muutis ka
  */
 
-echo "Reget";
+echo "kava";
 ?>
