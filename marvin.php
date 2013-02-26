@@ -7,5 +7,5 @@
  * Reget muutis ka
  */
 
-echo "test";
+echo "Reget";
 ?>
